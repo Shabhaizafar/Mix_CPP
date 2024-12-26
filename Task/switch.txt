@@ -1,0 +1,38 @@
+1. Library Management System:-
+___________________________
+
+Create a program where users select an action:
+1: Borrow a book
+2: Return a book
+3: Search for a book
+4: View account details
+5: Exit Use a switch statement to handle the chosen action.
+
+2. Hospital Appointment System:-
+______________________________
+
+Write a program for a hospital system where users can select a department:
+1: General Medicine
+2: Pediatrics
+3: Orthopedics
+4: Cardiology
+5: Exit Use a switch statement to display the department's information or exit the program.
+
+3. Currency Converter:-
+_____________________
+
+Write a program for converting currency based on user input:
+1: USD to EUR
+2: USD to GBP
+3: USD to JPY
+4: USD to INR
+5: Exit Use a switch statement to perform the conversion using predefined exchange rates.
+
+4. Hotel Room Booking System:-
+____________________________
+
+Develop a program for booking hotel rooms:
+1: Single Room ($50/night)
+2: Double Room ($80/night)
+3: Suite ($150/night)
+4: Exit Use a switch statement to display the room details and calculate the total cost based on the number of nights.

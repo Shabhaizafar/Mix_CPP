@@ -1,0 +1,9 @@
+1. Simple Calculator with Continuation Option:-
+_____________________________________________
+
+A calculator program asks the user to perform an operation (e.g., addition, subtraction, multiplication, etc.) and gives the result. After each operation, the program asks the user if they want to perform another calculation. Use a do-while loop to ensure the calculator keeps running until the user opts to exit.
+
+2. Password Validation:-
+______________________
+
+A system where the user is prompted to enter a password. The password must meet certain criteria (e.g., at least 8 characters, a mix of letters and numbers). If the password is invalid, the program keeps asking until a valid password is entered. Use a do-while loop to ensure the password validation continues.

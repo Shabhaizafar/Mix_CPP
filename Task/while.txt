@@ -1,0 +1,23 @@
+1. Loan Payment Tracker:-
+_______________________
+
+
+You need to track loan payments where a user can input the amount paid each month. The program should continue asking for monthly payments until the total loan amount is paid off. Use a while loop to accumulate payments and track the remaining loan balance.
+
+
+2. Find the First Prime Number Greater Than N:-
+_____________________________________________
+
+You need to find the first prime number greater than a given number n. Use a while loop to check numbers greater than n and find the first prime number.
+
+
+3. Simple Timer Countdown:-
+_________________________
+
+You need to create a timer that counts down from a specified time in seconds. The program should display the time remaining every second. Use a while loop to perform the countdown until it reaches zero.
+
+4. Guess the Number Game:
+________________________
+
+A game where the program randomly selects a number, and the user has to guess it. The program gives hints (higher or lower) and keeps asking the user to guess until the correct number is guessed. Use a while loop to allow repeated guesses.
+

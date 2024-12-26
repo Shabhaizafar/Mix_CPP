@@ -1,0 +1,15 @@
+1. Smart Home Automation:-
+________________________
+   - Write a program to control a smart home thermostat. If the room temperature is below 18°C, the heater should turn on. If it's above 25°C, the air conditioner should turn on. Otherwise, the system should remain idle.
+
+2. E-commerce Discount System:-
+_____________________________
+   - Develop a program to calculate the final price of a product. If the customer is a premium member, they get a 20% discount. If the purchase amount exceeds $100, apply an additional 10% discount. Otherwise, apply no discount.
+
+3. Traffic Light Control:-
+________________________
+   - Create a program for a traffic light system. If the time is between 6 AM and 9 PM, the light should follow normal traffic rules (green, yellow, red). If the time is outside this range, it should blink yellow for caution.
+
+4. Banking System Fraud Detection:-
+_________________________________
+   - Create a program to detect suspicious banking transactions. If the transaction amount exceeds $10,000 and the account is flagged for risk, send an alert. If the transaction amount is less than $10, ignore it. Otherwise, process the transaction normally.

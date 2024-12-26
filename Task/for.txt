@@ -1,0 +1,16 @@
+1. Find the Common Divisors of Two Numbers:-
+__________________________________________
+
+Write a program to find the common divisors of two numbers a and b. Use a for loop to iterate through the numbers from 1 to the minimum of a and b and check for divisibility.
+
+2. Student Attendance Report:-
+____________________________
+
+A school needs to calculate the attendance percentage of students. The program asks for attendance records (1 for present, 0 for absent) for n students over 30 days. Use a for loop to calculate the attendance percentage for each student.
+
+3. Employee Bonus Calculation:-
+_____________________________
+
+A company wants to calculate the bonus for its employees based on their performance. The user enters the performance score for each employee (out of 100). Use a for loop to calculate the bonus based on predefined criteria (e.g., bonus = 10% of salary for a score above 80).   (5 employee)
+
+
