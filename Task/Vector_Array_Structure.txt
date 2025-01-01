@@ -1,0 +1,51 @@
+============
+|| Vector ||
+============
+1. Dynamic Array Processing:-
+---------------------------
+A program allows the user to create an array dynamically. After the array is created, use a for loop to perform operations like summing elements, finding the maximum value, or displaying all elements. Use a do-while loop to allow the user to repeat the process with a new array.
+
+____________________________________________________________________________________________________
+
+
+
+===========
+|| Array ||
+===========
+1. Finding Missing Numbers:
+--------------------------
+A program stores a list of numbers in an array. Some numbers from a given range (e.g., 1 to 100) are missing. Find and display the missing numbers.
+____________________________________________________________________________________________________
+2. Cyclic Rotation of Array:
+---------------------------
+Rotate an array by a specified number of positions. For example, rotating [1, 2, 3, 4, 5] by 2 positions results in [4, 5, 1, 2, 3].
+____________________________________________________________________________________________________
+
+
+
+===============
+|| Structure ||
+===============
+1. University Course Management:
+--------------------------------
+Create a structure for courses, such as:
+Course ID
+Course name
+Instructor
+Number of enrolled students
+Write a program to:
+Add courses.
+Update the number of enrolled students.
+Display courses taught by a specific instructor.
+_____________________________________________________
+
+2. Game Player Statistics:
+--------------------------
+Create a structure to store player details, such as:
+Player name
+Matches played
+Total score
+Average score
+Write a program to:
+Display the player with the highest average score.
+Sort players by total score.
