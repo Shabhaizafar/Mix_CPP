@@ -1,0 +1,24 @@
+==========
+|| ENUM ||
+==========
+
+1. Sports Event Results:
+-----------------------
+Use an enum to represent event results:
+	enum Result { Win, Lose, Draw };
+
+Write a program to track and display the outcomes of multiple games.
+
+____________________________________________________________________
+
+
+2. Game Difficulty Levels:
+-------------------------
+
+Use an enum to represent difficulty levels:
+cpp
+Copy code
+enum Difficulty { Easy, Medium, Hard, Expert };
+Write a program to adjust game settings based on the selected difficulty level.
+____________________________________________________________________
+
